@@ -28,9 +28,6 @@ def maxMinSum(arr):
 
 maxMinSum(nums)
 
-
-
-
 """
 
 def miniMaxSum(arr):
